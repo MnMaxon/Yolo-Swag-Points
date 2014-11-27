@@ -1,0 +1,8 @@
+name: Yolo_Swag_Points
+version: 1.1
+main: me.MnMaxon.YoloSwagPoints.Main
+commands:
+   YoloSwag:
+      description: Displays help
+   YS:
+      description: Displays help

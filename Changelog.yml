@@ -1,0 +1,8 @@
+version: 1.0:
+Initial Release
+
+version: 1.1
+Configurable time
+Fixed an error message on first time startup
+Fixed an error message on deleting the Night_Fall folder
+Added a changelog
